@@ -1,0 +1,11 @@
+jquery autocomplete
+
+https://jqueryui.com/autocomplete/
+
+or
+
+easyautocomplete plugin
+https://github.com/pawelczak/EasyAutocomplete
+
+
+
